@@ -55,7 +55,7 @@ This project features an interactive **Coca-Cola Sales Dashboard** that showcase
 I’m a **Data Analyst and Data Scientist** with a passion for transforming data into high-impact business solutions. This project demonstrates my ability to not only analyze data but also communicate insights effectively to both technical and non-technical stakeholders.
 
 📬 Let's connect:
-- **LinkedIn**: [Tosin Bello]([https://www.linkedin.com/in/tosinbellofin]))
+- **LinkedIn**: [Tosin Bello]([https://www.linkedin.com/in/tosinbellofin])
 - **Email**: toshineb@email.com
 
 ---
