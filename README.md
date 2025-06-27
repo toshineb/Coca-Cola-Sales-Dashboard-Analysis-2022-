@@ -1,6 +1,6 @@
 # 🧃 Coca-Cola Sales Dashboard Analysis (2022)
 
-(./coca cola.png)
+![Coca-Cola Sales Dashboard](/coca%20cola.png)
 
 ## 📌 Project Description
 
